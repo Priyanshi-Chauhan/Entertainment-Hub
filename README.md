@@ -1,6 +1,6 @@
 # Film Hunt
 
-Live Demo : https://64ea0c464e0fc5434643b3f1--luminous-creponne-e62d03.netlify.app/
+Live Demo : https://filmhunt.netlify.app/
 
 Overview : 
 The movie search app will allow users to search for movies or tv series, view their details, filter search results, and browse through a list of them across several pages. It uses the The Movie Database (TMDb) API to fetch data.
